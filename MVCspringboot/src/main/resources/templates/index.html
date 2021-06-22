@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <p>Get your greeting</p>
+    
+<form th:action="@{/}">
+<input type="text" th:name="participant"/> <br>
+    <select th:name="country">
+        <option value="de">Germany</option>
+        <option value="nl">Netherlands</option>
+        <option value="pl">Poland</option>
+        <option value="lv">Latvia</option>
+    </select><br>
+    <input type="submit"/> 
+
+</form>
+
+<th:block th:each="userId: ${userIds}">
+    <a th:href="@{/(id=${userId})}"> User [[${userId}]]</a> <br/>
+</th:block>
+</body>
+</html>
