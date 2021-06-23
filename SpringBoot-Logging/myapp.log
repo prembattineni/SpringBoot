@@ -1,0 +1,33 @@
+2021-06-23 14:58:47.563  INFO 23304 --- [main] com.vm.log.SpringBootLoggingApplication  : Starting SpringBootLoggingApplication using Java 1.8.0_231 on LAPTOP-RPUVT2DI with PID 23304 (C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging\target\classes started by prem in C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging)
+2021-06-23 14:58:47.572  INFO 23304 --- [main] com.vm.log.SpringBootLoggingApplication  : No active profile set, falling back to default profiles: default
+2021-06-23 14:58:50.462  INFO 23304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-06-23 14:58:50.485  INFO 23304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-23 14:58:50.487  INFO 23304 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-23 14:58:50.651  INFO 23304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-23 14:58:50.651  INFO 23304 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2918 ms
+2021-06-23 14:58:51.497  INFO 23304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-06-23 14:58:51.517  INFO 23304 --- [main] com.vm.log.SpringBootLoggingApplication  : Started SpringBootLoggingApplication in 5.192 seconds (JVM running for 6.064)
+2021-06-23 14:58:58.167  INFO 23304 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-23 14:58:58.170  INFO 23304 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-23 14:58:58.175  INFO 23304 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-23 15:03:07.306  INFO 7756 --- [main] com.vm.log.SpringBootLoggingApplication  : Starting SpringBootLoggingApplication using Java 1.8.0_231 on LAPTOP-RPUVT2DI with PID 7756 (C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging\target\classes started by prem in C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging)
+2021-06-23 15:03:07.312  INFO 7756 --- [main] com.vm.log.SpringBootLoggingApplication  : No active profile set, falling back to default profiles: default
+2021-06-23 15:03:09.882  INFO 7756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-06-23 15:03:09.901  INFO 7756 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-23 15:03:09.901  INFO 7756 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-23 15:03:10.050  INFO 7756 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-23 15:03:10.050  INFO 7756 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2632 ms
+2021-06-23 15:03:10.831  INFO 7756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-06-23 15:03:10.854  INFO 7756 --- [main] com.vm.log.SpringBootLoggingApplication  : Started SpringBootLoggingApplication in 4.507 seconds (JVM running for 5.492)
+2021-06-23 15:03:29.542  INFO 8476 --- [main] com.vm.log.SpringBootLoggingApplication  : Starting SpringBootLoggingApplication using Java 1.8.0_231 on LAPTOP-RPUVT2DI with PID 8476 (C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging\target\classes started by prem in C:\Users\prasad\eclipse-workspace1\SpringBoot-Logging)
+2021-06-23 15:03:29.558  INFO 8476 --- [main] com.vm.log.SpringBootLoggingApplication  : No active profile set, falling back to default profiles: default
+2021-06-23 15:03:33.980  INFO 8476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-06-23 15:03:34.013  INFO 8476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-23 15:03:34.014  INFO 8476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-23 15:03:34.213  INFO 8476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-23 15:03:34.214  INFO 8476 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4510 ms
+2021-06-23 15:03:35.297  INFO 8476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-06-23 15:03:35.339  INFO 8476 --- [main] com.vm.log.SpringBootLoggingApplication  : Started SpringBootLoggingApplication in 7.079 seconds (JVM running for 8.282)
+2021-06-23 15:03:43.613  INFO 8476 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-23 15:03:43.614  INFO 8476 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-23 15:03:43.616  INFO 8476 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
